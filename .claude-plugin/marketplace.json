@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "houten-kozijnen-nl",
+  "description": "Marketplace voor de houten-kozijnen-nl plugin: expert-agents en kennisbank voor houten kozijnen op de Nederlandse markt.",
+  "owner": {
+    "name": "Remco",
+    "email": "remco@rem.codes"
+  },
+  "plugins": [
+    {
+      "name": "houten-kozijnen-nl",
+      "description": "Expert-agents en kennisbank voor houten kozijnen op de NL markt: NEN-normen, KOMO/BRL 0801 (SKH), KVT, Bouwbesluit, glas, profielen, maatvoering en marges. Bevat een domain-expert en een code-reviewer voor kozijn-configurator-codebases.",
+      "author": {
+        "name": "Remco",
+        "email": "remco@rem.codes"
+      },
+      "source": ".",
+      "category": "domain-expertise",
+      "homepage": "https://github.com/rem-code-s/houten-kozijnen-nl"
+    }
+  ]
+}
