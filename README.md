@@ -11,7 +11,7 @@ Lokale Claude Code plugin met expert-agents en kennisbank voor houten kozijnen o
 
 ## Scope
 
-Alleen **houten** kozijnen. Alleen **Nederlandse markt** (NEN-normen, KOMO/BRL 0703, Bouwbesluit). Geen kunststof, geen aluminium, geen EU/EN-normen tenzij ze direct via NL-context relevant zijn.
+Alleen **houten** kozijnen. Alleen **Nederlandse markt** (NEN-normen, KOMO/BRL 0801 (SKH), KVT, Bouwbesluit/Bbl). Geen kunststof, geen aluminium, geen EU/EN-normen tenzij ze direct via NL-context relevant zijn.
 
 ## Hoe werkt curated growth
 
