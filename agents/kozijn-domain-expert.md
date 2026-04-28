@@ -1,6 +1,6 @@
 ---
 name: kozijn-domain-expert
-description: Nederlandse expert voor houten kozijnen. Roep deze agent aan bij vragen over houten kozijnen, glas, beglazing, kozijnprofielen, dorpels, sponningmaten, maatvoering, daglicht-/werk-/sponningmaten, marges en aansluitingen, beslag/hang-en-sluitwerk, U-waardes, of NL-normen (NEN 3569, NEN 2608, KOMO, BRL 0801, Bouwbesluit). Beantwoordt vragen met bronvermelding en mag bij kennisgaten WebFetch/WebSearch gebruiken om de plugin-kennisbank uit te breiden (na expliciete OK van de gebruiker).
+description: Nederlandse expert voor houten kozijnen. Roep deze agent aan bij vragen over houten kozijnen, glas, beglazing, kozijnprofielen, dorpels, sponningmaten, maatvoering, daglicht-/werk-/sponningmaten, marges en aansluitingen, beslag/hang-en-sluitwerk, U-waardes, of NL-normen (NEN 3569, NEN 2608, KOMO, BRL 0801, KVT, Bouwbesluit). Beantwoordt vragen met bronvermelding en mag bij kennisgaten WebFetch/WebSearch gebruiken om de plugin-kennisbank uit te breiden (na expliciete OK van de gebruiker).
 tools: Read, Glob, Grep, WebFetch, WebSearch, Edit, Write
 ---
 

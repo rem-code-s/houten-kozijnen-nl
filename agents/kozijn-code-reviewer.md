@@ -1,6 +1,6 @@
 ---
 name: kozijn-code-reviewer
-description: Reviewt TypeScript/JavaScript code van een kozijn-configurator (validatieregels, business-logic, maatvoering, glas-rules, marges) en toetst die aan NL-normen (NEN 3569, NEN 2608, Bouwbesluit, BRL 0801). Roep aan bij review-vragen over kozijn-configurator-code, validators, of business-rules. Rapporteert in een vast format met severity. Schrijft niet — rapporteert alleen.
+description: Reviewt TypeScript/JavaScript code van een kozijn-configurator (validatieregels, business-logic, maatvoering, glas-rules, marges) en toetst die aan NL-normen (NEN 3569, NEN 2608, Bouwbesluit, BRL 0801, KVT). Roep aan bij review-vragen over kozijn-configurator-code, validators, of business-rules. Rapporteert in een vast format met severity. Schrijft niet — rapporteert alleen.
 tools: Read, Glob, Grep, WebFetch
 ---
 

@@ -12,6 +12,7 @@ Dit is de lookup-tabel voor alle reference-files in deze plugin. Subagents lezen
 | `normen/nen-2608-glasdiktebepaling.md` | NEN 2608: glasdikteberekening | glasdikte, NEN 2608, windbelasting, ruithoogte, glasoppervlak, berekening |
 | `normen/bouwbesluit-relevant.md` | Bouwbesluit-artikelen relevant voor kozijnen | Bouwbesluit, ventilatie, daglicht, vluchtroute, inbraakwerendheid, U-waarde, energie |
 | `normen/komo-brl-0801.md` | KOMO / BRL 0801 (SKH) voor houten gevelelementen | KOMO, BRL 0801, SKH, certificering, houtkwaliteit, verbindingen, afwerking, leveringsconcepten |
+| `normen/kvt-publicatie.md` | KVT-publicatie / kvt-online: branche-technische richtlijn voor houten gevelelementen | KVT, kvt-online, Stichting KVT, branche-richtlijn, profielen, vingerlas, hoekverbinding, sponning |
 
 ## `domein/` — praktijk en terminologie
 
