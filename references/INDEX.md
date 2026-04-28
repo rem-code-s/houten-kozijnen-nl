@@ -11,7 +11,7 @@ Dit is de lookup-tabel voor alle reference-files in deze plugin. Subagents lezen
 | `normen/nen-3569-veiligheidsglas.md` | NEN 3569: wanneer veiligheidsglas verplicht is | veiligheidsglas, NEN 3569, glasklasse, 1B1, 2B2, vloerhoogte, schuifpui, balustrade, tuindeur |
 | `normen/nen-2608-glasdiktebepaling.md` | NEN 2608: glasdikteberekening | glasdikte, NEN 2608, windbelasting, ruithoogte, glasoppervlak, berekening |
 | `normen/bouwbesluit-relevant.md` | Bouwbesluit-artikelen relevant voor kozijnen | Bouwbesluit, ventilatie, daglicht, vluchtroute, inbraakwerendheid, U-waarde, energie |
-| `normen/komo-brl-0703.md` | KOMO / BRL 0703 voor houten gevelelementen | KOMO, BRL 0703, certificering, houtkwaliteit, verbindingen, afwerking |
+| `normen/komo-brl-0801.md` | KOMO / BRL 0801 (SKH) voor houten gevelelementen | KOMO, BRL 0801, SKH, certificering, houtkwaliteit, verbindingen, afwerking, leveringsconcepten |
 
 ## `domein/` — praktijk en terminologie
 
