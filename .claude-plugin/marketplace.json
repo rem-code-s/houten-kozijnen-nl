@@ -14,7 +14,7 @@
         "name": "Remco",
         "email": "remco@rem.codes"
       },
-      "source": ".",
+      "source": "./plugins/houten-kozijnen-nl",
       "category": "domain-expertise",
       "homepage": "https://github.com/rem-code-s/houten-kozijnen-nl"
     }
