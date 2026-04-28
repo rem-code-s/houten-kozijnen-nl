@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "houten-kozijnen-nl",
   "version": "0.1.0",
-  "description": "Expert-agents en kennisbank voor houten kozijnen op de NL markt: NEN-normen, KOMO/BRL 0703, Bouwbesluit, glas, profielen, maatvoering en marges. Bevat een domain-expert en een code-reviewer voor kozijn-configurator-codebases.",
+  "description": "Expert-agents en kennisbank voor houten kozijnen op de NL markt: NEN-normen, KOMO/BRL 0801 (SKH), KVT, Bouwbesluit, glas, profielen, maatvoering en marges. Bevat een domain-expert en een code-reviewer voor kozijn-configurator-codebases.",
   "author": {
     "name": "Remco"
   }
